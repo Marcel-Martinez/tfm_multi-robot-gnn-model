@@ -40,12 +40,13 @@ El dataset de entrenamiento se guarda en la ubicación `train_data/train_data.tf
 
 Puede correr el archivo `main.py` y elegir la acción de realizar una simulación de comparación con el agente centralizado o una simulación sola del modelo GNN entrenado (llamado “evaluación libre”).
 
-Tras realizada una evaluación libre se genera un archivo .gif con la simulación representa.
+Tras realizada una evaluación libre se genera un archivo .gif con la simulación representada como a continuación.
 
 <p align="center">
 <img src="/src/animacion_gnn.gif" alt="drawing" width="500"/>
 </p>
 
+Donde los puntos azules representan nuestros agentes inteligentes y los naranja los objetivos a seguir.
 ## Licencia
 Este proyecto está bajo la licencia del MIT. Para mayores detalles véase el anexo de LICENCE.
 
