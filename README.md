@@ -43,7 +43,7 @@ Puede correr el archivo `main.py` y elegir la acción de realizar una simulació
 Tras realizada una evaluación libre se genera un archivo .gif con la simulación representada como a continuación.
 
 <p align="center">
-<img src="/src/animacion_gnn.gif" alt="drawing" width="500"/>
+<img src="/animacion_gnn.gif" alt="drawing" width="500"/>
 </p>
 
 Donde los puntos azules representan nuestros agentes inteligentes y los naranja los objetivos a seguir.
